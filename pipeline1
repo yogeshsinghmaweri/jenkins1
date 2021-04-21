@@ -26,11 +26,4 @@ node {
 }
 
 
-node {
-	stage (‘Build’ {
-		//...
-	}
-	stage (‘Test’) {
-		//...
-	}
-}
+
